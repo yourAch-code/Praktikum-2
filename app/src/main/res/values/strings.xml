@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Praktikum 2</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="tanggal_lahir_yyyy_mm_dd">Tanggal Lahir (YYYY-MM-DD)</string>
+    <string name="submit">SUBMIT</string>
+    <string name="kategori_usia">Kategori Usia</string>
+    <string name="tinggi_badan_cm">Tinggi Badan(cm)</string>
+    <string name="masukkan_tanggal_lahir_yyyy_mm_dd">Masukkan tanggal lahir (YYYY-MM-DD)</string>
+    <string-array name = "umur">
+        <item> Di bawah 12 tahun</item>
+        <item> 13 – 18 tahun </item>
+        <item> Di atas 18 tahun  </item>
+    </string-array>
+</resources>
